@@ -3,6 +3,4 @@ worker_id,first_name,last_name,salary,joining_date,department
 2,Ritesh,Girase,340000,"2001-02-24 09:00:00",Admin
 3,Rinku,Pagare,450000,"2005-03-24 09:00:00",Account
 4,Vinu,Girase,500000,"2015-07-24 09:00:00",Account
-5,Siddhika,Pagare,110000,"2001-03-20 09:00:00",Admin
-6,Rama,Pagare,220000,"2001-11-19 09:00:00",HR
-7,Sneha,Kharjul,350000,"2001-12-23 09:00:00",Admin
+
