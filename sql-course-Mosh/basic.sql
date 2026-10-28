@@ -16,10 +16,10 @@ create table customer (
 
 insert into customer (id, first_name, last_name, City, product)
 values(101, 'AAA', 'BBB', 'Nashik', 'book'),
-  (102, 'CCC', 'DDD', 'adgau', 'pen'),
-  (103, 'EEE', 'FFF', 'pune', 'bag'),
+  (102, 'CCC', 'DDD', 'Mumbai', 'pen'),
+  (103, 'EEE', 'FFF', 'Banglore', 'bag'),
   (104, 'GGG', 'HHH', 'Nashik', 'book'),
-  (105, 'XXX', 'ZZZ', 'nagpur', null);
+  (105, 'XXX', 'ZZZ', 'hydrabad', null);
 
 select * from customer;
 
